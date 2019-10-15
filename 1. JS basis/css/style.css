@@ -1,0 +1,14 @@
+table {
+  border: 3px solid red;
+}
+
+
+td {
+  border: 1px solid blue;
+}
+
+.table_title td {
+  font-weight: 800;
+  text-align: center;
+  padding: 0 15px;
+}
